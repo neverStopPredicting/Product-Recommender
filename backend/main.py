@@ -1,9 +1,18 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 import requests
 import google.generativeai as genai
 import os
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or specify your frontend URL here
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 genai.configure(api_key=os.getenv("API_KEY"))
                 
 def get_venue_meta(query):
@@ -89,10 +98,10 @@ def extract_venue_meta(venue_meta, related_catalogues):
 # Define a simple route
 @app.get("/{venue_name}")
 def read_root(venue_name: str):                        # Example query to get all documents
-
+    print(venue_name)
     venue_meta = get_venue_meta(venue_name)
     query2 = ' '.join(venue_meta['ingredients_txt'])
     related_catalogues = get_catalogues(query2) 
     response = extract_venue_meta(venue_meta, related_catalogues)
-
+    print(response)
     return response
