@@ -17,8 +17,8 @@ const MessageInput = ({ sendMessage }) => {
         type="text"
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
-        placeholder="Type a message"
-        style={{ width: '80%', marginRight: '10px' }}
+        placeholder="Type a venue"
+        style={{ width: '80%', marginRight: '10px', fontSize: '16px' }}
       />
       <button type="submit">Send</button>
     </form>

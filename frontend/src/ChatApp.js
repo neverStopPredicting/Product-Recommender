@@ -8,21 +8,28 @@ const ChatApp = () => {
 
   const sendMessage = async (venueName) => {
     try {
-      // Make a GET request to the FastAPI backend
       const response = await axios.get(`http://127.0.0.1:8000/${venueName}`);
-      const reply = response.data; // Assuming the response contains the chat bot's reply
-      
-      // Update messages with both user input and bot reply
-      setMessages((prevMessages) => [...prevMessages, `User: ${venueName}`, `Bot: ${reply}`]);
+      const reply = response.data; // Make sure you're accessing the right property
+  
+      // Update messages without duplicating User and Bot labels
+      setMessages((prevMessages) => [
+        ...prevMessages,
+        `User: ${venueName}`,  // User input
+        `Bot: ${reply}`         // Bot response
+      ]);
     } catch (error) {
       console.error('Error fetching data from backend:', error);
-      setMessages((prevMessages) => [...prevMessages, `Error: ${error.message}`]);
+      setMessages((prevMessages) => [
+        ...prevMessages,
+        `Error: ${error.message}`  // Handle error
+      ]);
     }
   };
+  
 
   return (
-    <div style={{ width: '400px', margin: '0 auto' }}>
-      <h2>Simple Chat</h2>
+    <div style={{ width: '660px', margin: '0 auto' }}>
+      <h2>Product Recommender</h2>
       <MessageList messages={messages} />
       <MessageInput sendMessage={sendMessage} />
     </div>
