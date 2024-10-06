@@ -82,6 +82,7 @@ def extract_venue_meta(venue_meta, related_catalogues):
     3. Your answer should be based on the template below; please do not add other information e.g. Venue.
     4. Your answer should be based on the Venue metadata and Product Catalogue; please do not create items or names from your own knowledge.
     5. The [original_file] should only show the file name, not the entire file path.
+    6. Your response should be HTML, e.g. using <br /> for newline.
 
     --------- Response template ---------
     [venue_name] is a [venue_type] venue.

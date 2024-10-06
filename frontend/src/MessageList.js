@@ -11,7 +11,8 @@ const MessageList = ({ messages }) => {
               </>
             ) : (
               <>
-                <strong>Bot:</strong> {msg.replace("Bot: ", "")}
+                <strong>Bot:</strong>
+                <span dangerouslySetInnerHTML={{ __html: msg.replace("Bot: ", "") }} />
               </>
             )}
           </div>
