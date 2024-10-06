@@ -1,0 +1,139 @@
+Deli Ziosa
+------------
+Flat White
+Espresso with fresh, steamed milk poured over it.
+$4.00
+Latte
+Espresso, steamed milk & a layer of foam on top. The classic milk & espresso drink.
+$4.00
+Cappuccino
+Silky frothed milk poured over a shot of espresso, topped with a touch of chocolate.
+$4.00
+Long Black
+A double-shot of espresso over hot water.
+$4.00
+Espresso
+A single shot of espresso.
+$3.80
+Macchiato
+A single shot of espresso with a small amount of steamed milk.
+$3.80
+Piccolo
+A baby latte - ristretto shot with steamed milk poured over top.
+$3.80
+Mocha
+A hot chocolate with a shot of espresso.
+$4.00
+Hot Chocolate
+Silky steamed milk poured over melted chocolate topped with a chocolate powder.
+$4.00
+Chai Latte
+Aromatic spiced black tea blended with steamed milk.
+$4.00
+Tea
+Choose from a variety of flavours.
+$3.80
+Breakfast
+Toast Of Your Choice With Bread
+$5.00
+Plain Croissant
+$5.00
+Bagel With Cream Cheese
+$8.00
+Ham & Cheese Croissant
+Sliced leg ham with tasty cheese.
+$8.00
+Smashed Avo On Toast
+Served on bread of your choice.
+$9.00
+B.L.A.T Bagel
+Bacon, lettuce, avocado & tomato on poppyseed bagel.
+$10.00
+Smoke Salmon Bagel
+Norwegian smoked salmon, red onion, rocket & cream cheese on a poppyseed bagel.
+$10.00
+Bacon & Egg Roll
+Two fried eggs & bacon on a soft long white roll.
+$10.00
+Bacon & Egg Wrap
+Two fried eggs & bacon.
+$9.50
+Feta Wrap
+Scrambled egg, feta & baby spinach.
+$9.50
+Basil Pesto Wrap
+Scrambled egg, basil pesto, mozzarella & baby spinach.
+$9.50
+Chorizo Wrap
+Scrambled egg, basil pesto, mozzarella & baby spinach.
+$9.50
+Eggs On Toast
+Served on bread of your choice.
+$10.00
+Brekkie Burger
+Bacon, fried egg, halloumi & avocado on brioche bun.
+$15.00
+Gourmet Sandwiches
+Rare Roast Beef Sandwich
+Caramelized onions, sun-dried tomatoes, tasty cheese, mixed lettuce & homemade aioli.
+$14.00
+Chicken Pesto Sandwich
+Fresh tomatoes, provolone cheese, rocket & homemade mayonnaise.
+$14.00
+Chicken Schnitzel Sandwich
+Fresh tomatoes, tasty cheese, lettuce, homemade mayonnaise & American mayo.
+$14.00
+Portuguese Chicken Sandwich
+Fresh tomato, homemade mayonnaise, American mayo, tasty cheese & lettuce. Spicy.
+$14.00
+Chicken Mix Sandwich
+Avocado, chicken mix (celery, pistachio, nuts & mayo) & mixed lettuce on seeded sourdough bread.
+$14.00
+Chicken Avocado Sandwich
+Avocado, sun-dried tomatoes, tasty cheese & lettuce.
+$14.00
+Ham Sandwich
+Avocado, tasty cheese, seeded mustard & baby spinach on Turkish bread.
+$14.00
+Turkey & Brie Sandwich
+Avocado, cranberry sauce, brie cheese & baby spinach on Turkish bread.
+$14.00
+Ham & Turkey Sandwich
+Pesto mayo, avocado, fresh tomatoes, tasty cheese & baby spinach on Turkey Bread.
+$14.00
+Smoked Salmon Sandwich
+Cream cheese, red onions, capers & rocket on seeded sourdough bread.
+$14.00
+Vegetarian Sandwich
+Homemade tzatziki, grilled eggplant, grilled sweet potatoes, grilled pumpkin, grilled zucchini, feta cheese, sweet chili... More
+$14.00
+Salads
+Small Salad
+$12.00
+Medium Salad
+$14.00
+Large Salad
+$16.00
+Something Sweet
+Protein Ball
+Choose from a variety of flavours.
+$4.00
+Muffin
+Choose from a variety of flavours.
+$4.50
+Banana Bread
+$5.00
+Almond Croissant
+$5.00
+Iced Coffee
+Iced Long Black
+Espresso served with ice & topped up with water.
+$5.00
+Iced Latte
+Espresso & milk. Served over ice. The classic milk & espresso drink.
+$5.00
+Iced Mocha
+Mocha, can also be referred to as a hot chocolate with a shot of espresso added to it. Served over ice.
+$5.00
+Iced Chocolate
+Silky milk poured over melted chocolate topped with a chocolate powder. Served over ice.

@@ -1,0 +1,199 @@
+Wintergarden Deli
+
+Menu
+Exclusive Perks
+Most Popular
+Breakfast Wraps
+Exclusive Perks
+Flat White
+$4.00
+Espresso with fresh, steamed milk poured over it.
+Latte
+$4.00
+Espresso, steamed milk & a layer of foam on top. The classic milk & espresso drink.
+Cappuccino
+$4.00
+Silky frothed milk poured over a shot of espresso, topped with a touch of chocolate.
+Long Black
+$4.00
+A double-shot of espresso over hot water.
+Espresso
+$3.50
+A single shot of espresso.
+Macchiato
+$3.50
+A single shot of espresso with a small amount of steamed milk.
+Piccolo
+$3.50
+A baby latte - ristretto shot with steamed milk poured over top.
+Mocha
+$4.50
+A hot chocolate with a shot of espresso.
+Hot Chocolate
+$4.00
+Silky steamed milk poured over melted chocolate topped with a chocolate powder.
+Chai Latte
+$4.00
+Aromatic spiced black tea blended with steamed milk.
+Most Popular
+Flat White
+$4.00
+Espresso with fresh, steamed milk poured over it.
+Cappuccino
+$4.00
+Silky frothed milk poured over a shot of espresso, topped with a touch of chocolate.
+Bacon & Egg Wrap
+$8.50
+Baby spinach & tomato sauce.
+Breakfast Wraps
+Bacon & Egg Wrap
+$8.50
+Baby spinach & tomato sauce.
+Egg & Mushroom Wrap
+$8.50
+Scrambled egg, mushroom & baby spinach.
+Breakfast Wraps & Coffee Combos
+Bacon & Egg Wrap & Coffee Combo
+$12.00
+Baby spinach & tomato sauce. Served with your choice of coffee.
+Bacon & Egg Wrap & Long Black Combo
+$12.00
+Baby spinach & tomato sauce.
+Scrambled Egg Wrap, Avo, Spinach Coffee Combo
+$14.00
+Served with avocado, baby spinach & your choice of coffee.
+Scrambled Egg Wrap & Long Black Combo
+$13.50
+Served with avocado & baby spinach.
+Deli Wrap & Coffee Combo
+$14.00
+Bacon, egg, hash brown cheese & BBQ sauce wrap. Served with your choice of coffee.
+Deli Wrap & Long Black Combo
+$15.50
+Bacon, egg, hash brown cheese & BBQ sauce wrap
+Healthy Box
+$12.50
+Poached eggs, grilled tomatoes, mushrooms & spinach.
+Breakfast & Coffee Combos
+Special Egg & Mushroom Roll & Coffee Combo
+$12.00
+Served with your choice of sauce & coffee.
+Special Bacon Egg Roll & Coffee Combo
+$10.50
+Served with your choice of sauce.
+Ham & Cheese Croissant & Coffee Combo
+$11.50
+Served with your choice of coffee.
+Ham & Cheese Croissant & Coffee Combo
+$11.50
+Toast With Spread & Long Black Combo
+$7.50
+Served with your choice of bread & spread.
+Toast With Spread & Coffee Combo
+$7.50
+Served with your choice of bread, spread & coffee.
+Breakfast
+Toast With Spread
+$5.00
+Served with your choice of spread.
+Ham, Cheese & Tomato Toastie
+$10.00
+Served on your choice of bread.
+Cheese & Tomato Toastie
+$5.50
+Served on your choice of bread.
+Ham & Cheese Croissant
+$8.00
+Special Bacon & Egg Roll
+$8.50
+Served with your choice of sauce.
+Deli Brekkie Burger
+$10.00
+Bacon, egg, tomato relish, cheese on a brioche roll
+Breakfast Boxes
+Brekkie Box
+$12.50
+Bacon, scrambled eggs, grilled tomatoes & spinach.
+Breakfast Boxes & Coffee Combo
+Brekkie Box & Coffee Combo
+$16.00
+Bacon, scrambled eggs, grilled tomatoes & spinach. Served with your choice of coffee.
+Brekkie Box & Long Black Combo
+$16.00
+Bacon, scrambled eggs, grilled tomatoes & spinach.
+Healthy Box & Coffee Combo
+$16.00
+Poached eggs, grilled tomatoes, mushrooms & spinach. Served with your choice of coffee.
+Healthy Box & Long Black Combo
+$16.00
+Poached eggs, grilled tomatoes, mushrooms & spinach.
+Beverages
+Water
+$4.00
+Sparkling Water
+$5.00
+Freshly Squeezed Orange Juice
+$6.00
+Canned Soft Drink
+$4.00
+Choose from a variety of flavours.
+Bottled Soft Drink
+$5.00
+Choose from a variety of flavours.
+Iced Coffee & Tea
+Iced Long Black
+$5.00
+Espresso served with ice & topped up with water.
+Iced Latte
+$6.00
+Espresso & milk. Served over ice. The classic milk & espresso drink.
+Iced Mocha
+$6.50
+Mocha, can also be referred to as a hot chocolate with a shot of espresso added to it. Served over ice.
+Iced Chocolate
+$6.00
+Silky milk poured over melted chocolate & topped with a chocolate powder. Served over ice.
+Hot Coffee & Tea
+Flat White
+$4.00
+Espresso with fresh, steamed milk poured over it.
+Latte
+$4.00
+Espresso, steamed milk & a layer of foam on top. The classic milk & espresso drink.
+Cappuccino
+$4.00
+Silky frothed milk poured over a shot of espresso, topped with a touch of chocolate.
+Long Black
+$4.00
+A double-shot of espresso over hot water.
+Espresso
+$3.50
+A single shot of espresso.
+Macchiato
+$3.50
+A single shot of espresso with a small amount of steamed milk.
+Piccolo
+$3.50
+A baby latte - ristretto shot with steamed milk poured over top.
+Mocha
+$4.50
+A hot chocolate with a shot of espresso.
+Hot Chocolate
+$4.00
+Silky steamed milk poured over melted chocolate topped with a chocolate powder.
+Chai Latte
+$4.00
+Aromatic spiced black tea blended with steamed milk.
+Lunch Specials
+Schnitzel Roll Special
+$16.00
+Swiss cheese, aioli & coleslaw with side of chips.
+Lamb Meal
+$16.00
+Lamb served with chips veggies and gravy
+Pork Roll
+$16.00
+Coleslaw & cheese with side of chips.
+Grilled Chicken Healthy Box
+$12.50
+Steamed brown rice broccoli.
