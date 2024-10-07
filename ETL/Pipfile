@@ -1,0 +1,10 @@
+[packages]
+google-generativeai = "*"
+pysolr = "*"
+pdfplumber = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9" 
