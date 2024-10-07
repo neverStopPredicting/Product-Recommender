@@ -9,12 +9,14 @@ Currently supports the venues below:
 * Restaurant Hubert
 * Wintergarden Deli
 
+# Workflow
 ![Workflow](flow_diagram.jpg)
 
 * First, process venue menus and catalogues and save them in the database for later search.
 * Second, the backend uses the venue's name to retrieve venue data, then uses the ingredients found in the menu to find products in the catalogue. The Gemini model gives suggestions based on the menu data and products retrieved.
 * Dotted line is for future improvements.
 
+# Run the code
 Set up Apache Solr
 1. Download Solr 9.x from https://solr.apache.org/downloads.html and decompress 
 2. In the solr-9.x.0 folder run 
