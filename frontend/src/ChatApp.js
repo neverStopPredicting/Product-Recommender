@@ -8,7 +8,7 @@ const ChatApp = () => {
 
   const sendMessage = async (venueName) => {
     try {
-      const response = await axios.get(`http://127.0.0.1:8000/${venueName}`);
+      const response = await axios.get(`http://backend:8000/${venueName}`);
       const reply = response.data; // Make sure you're accessing the right property
   
       // Update messages without duplicating User and Bot labels
