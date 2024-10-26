@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios'; // Import Axios
+import axios from 'axios';
 import MessageList from './MessageList';
 import MessageInput from './MessageInput';
 
@@ -9,7 +9,7 @@ const ChatApp = () => {
   const sendMessage = async (venueName) => {
     try {
       const response = await axios.get(`http://localhost:8000/${venueName}`);
-      const reply = response.data; // Make sure you're accessing the right property
+      const reply = response.data; 
   
       // Update messages without duplicating User and Bot labels
       setMessages((prevMessages) => [

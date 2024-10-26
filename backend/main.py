@@ -111,7 +111,6 @@ def extract_venue_meta(venue_meta: Dict[str, Any], related_catalogues: List[Dict
     3. Your answer should be based on the template below; please do not add other information e.g. Venue.
     4. Your answer should be based on the Venue metadata and Product Catalogue; please do not create items or names from your own knowledge.
     5. The [original_file] should only show the file name, not the entire file path.
-    6. Your response should be HTML, e.g. using <br /> for newline.
 
     --------- Response template ---------
     [venue_name] is a [venue_type] venue.
@@ -147,6 +146,7 @@ async def get_venue_suggestions(venue_name: str) -> str:
     query2 = ' '.join(venue_meta['ingredients_txt'])
     related_catalogues = get_catalogues(query2)
     response = extract_venue_meta(venue_meta, related_catalogues)
+
     return response
 
 if __name__ == "__main__":
