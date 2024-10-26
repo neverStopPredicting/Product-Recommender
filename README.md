@@ -44,3 +44,6 @@ npm start
 * Enhance product suggestions: Integrate data from other similar venues to improve product recommendations by finding related products based on venue meta and customer preferences.
 * Improve user experience: Display images of products or show the original catalogue page in the response to give Ari more context and a visual aid when making suggestions.
 * Support real-time updates: Incorporate periodic scraping or API integrations to ensure that venue menus and catalogue items remain up-to-date without manual intervention.
+
+# Docker
+To run the app in a docker container, run `docker compose up --build` in the root directory.

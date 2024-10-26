@@ -10,6 +10,7 @@ services:
       - ./frontend:/usr/src/app
       - /usr/src/app/node_modules
 
+
   backend:
     build: 
       context: ./
