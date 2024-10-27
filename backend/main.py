@@ -108,18 +108,18 @@ def extract_venue_meta(venue_meta: Dict[str, Any], related_catalogues: List[Dict
 
     1. List 15 products from the catalogue.
     2. Based on the venue metadata provided to you, and the venue type and the ingredients listed on their menu, pick 5 products from the catalogue to make the suggestion.
-    3. Your answer should be based on the template below; please do not add other information e.g. Venue.
+    3. Your answer should be based on the template below; please do not add other information e.g. Venue meta data in the response.
     4. Your answer should be based on the Venue metadata and Product Catalogue; please do not create items or names from your own knowledge.
-    5. The [original_file] should only show the file name, not the entire file path.
+    5. The [original_file] should only show the pdf file name, not the entire file path.
 
     --------- Response template ---------
     [venue_name] is a [venue_type] venue.
     My suggested products from the [original_file] are:
-    1. [product name 1], [product 1 page_number]
-    2. [product name 2], [product 2 page_number]
-    3. [product name 3], [product 3 page_number]
-    4. [product name 4], [product 4 page_number]
-    5. [product name 5], [product 5 page_number]
+    1. [product name 1], page [product 1 page_number]
+    2. [product name 2], page [product 2 page_number]
+    3. [product name 3], page [product 3 page_number]
+    4. [product name 4], page [product 4 page_number]
+    5. [product name 5], page [product 5 page_number]
     """
     
     try:
