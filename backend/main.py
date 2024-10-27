@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-app = FastAPI()
+app = FastAPI(title="Product Suggestions API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Specify frontend URL here for production
